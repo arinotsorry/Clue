@@ -1,5 +1,7 @@
 # Clue
 
+Download the zip file, extract it, and do the following within that directory
+
 The main program to run the game is in the file Clue.java. You can compile the source code by typing at the command prompt:
 
 `javac *.java`
